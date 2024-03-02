@@ -1,8 +1,38 @@
 # Py-Bingo_Game_1.0
 This is everyone's favorite bingo game as a consoled-base Python digital version 🎮
 
-This Python program is an implementation of the classic game of Bingo. It allows players to play against a computer opponent. The program utilizes fundamental programming concepts such as functions, conditional statements, loops, and random number generation. Upon running the program, players are prompted to enter their name and choose between two options for filling their Bingo card: auto-fill or manual input. The game proceeds with alternating turns between the player and the computer, with numbers being called out randomly. Players mark off called numbers on their card, and the game automatically checks for winning patterns such as completing a line horizontally, vertically, or diagonally. The game ends when either the player or the computer achieves the winning pattern. Enjoy playing this exciting game of Bingo!
+# Bingo Game
+Welcome to the Bingo Game Python program repository! This program is an implementation of the classic game of Bingo, allowing players to enjoy a thrilling gaming experience against a computer opponent.
 
-Note: This program includes both user interface and game logic, offering an interactive and entertaining gaming experience.
+## About the Game
+The Bingo Game program offers the following features:
+- **Player vs. Computer**: Play against a computer opponent for an engaging gaming experience.
+- **Interactive Interface**: Enjoy a user-friendly interface that guides you through the game.
+- **Auto-fill or Manual Input**: Choose between auto-fill or manual input options for filling your Bingo card.
+- **Random Number Generation**: Utilizes random number generation to call out numbers during the game.
+- **Winning Patterns**: Automatically checks for winning patterns such as completing a line horizontally, vertically, or diagonally.
+- **Game Ending**: The game ends when either the player or the computer achieves the winning pattern.
 
-Created by Faraz Hayder
+## Getting Started
+To start playing the Bingo game, follow these steps:
+1. Run the Python program on your local machine.
+2. Enter your name when prompted to personalize your gaming experience.
+3. Choose between auto-fill or manual input to fill your Bingo card.
+4. Enjoy the game as numbers are called out and mark them on your card.
+5. Keep playing until either you or the computer achieves the winning pattern.
+
+## Technologies Used
+This Bingo Game program is implemented using Python and utilizes fundamental programming concepts such as functions, conditional statements, loops, and random number generation.
+
+## Usage
+To run the Bingo Game program, simply execute the Python script in your preferred Python environment:
+
+```bash
+python Bingo.py
+```
+
+## Contributions
+Contributions to this project are welcome! If you have any suggestions for improvements or new features, feel free to open an issue or submit a pull request.
+
+## Author
+This Bingo Game Python program was created by Faraz Hayder.
